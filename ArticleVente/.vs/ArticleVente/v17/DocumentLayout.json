@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|c:\\users\\formation poei\\documents\\sitedevente\\articlevente\\articlevente\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|solutionrelative:articlevente\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|c:\\users\\formation poei\\documents\\sitedevente\\articlevente\\articlevente\\migrations\\20240530130800_articledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|solutionrelative:articlevente\\migrations\\20240530130800_articledb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|c:\\users\\formation poei\\documents\\sitedevente\\articlevente\\articlevente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|solutionrelative:articlevente\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|c:\\users\\formation poei\\documents\\sitedevente\\articlevente\\articlevente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|solutionrelative:articlevente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|c:\\users\\formation poei\\documents\\sitedevente\\articlevente\\articlevente\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|solutionrelative:articlevente\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|c:\\users\\formation poei\\documents\\sitedevente\\articlevente\\articlevente\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|solutionrelative:articlevente\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|c:\\users\\formation poei\\documents\\sitedevente\\articlevente\\articlevente\\views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|solutionrelative:articlevente\\views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|c:\\users\\formation poei\\documents\\sitedevente\\articlevente\\articlevente\\data\\articleventecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|solutionrelative:articlevente\\data\\articleventecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|c:\\users\\formation poei\\documents\\sitedevente\\articlevente\\articlevente\\articlevente.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51E8E9C6-A00D-45CF-B204-DE1ABB76AB60}|ArticleVente\\ArticleVente.csproj|solutionrelative:articlevente\\articlevente.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240530130800_ArticleDB.cs",
+              "DocumentMoniker": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Migrations\\20240530130800_ArticleDB.cs",
+              "RelativeDocumentMoniker": "ArticleVente\\Migrations\\20240530130800_ArticleDB.cs",
+              "ToolTip": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Migrations\\20240530130800_ArticleDB.cs",
+              "RelativeToolTip": "ArticleVente\\Migrations\\20240530130800_ArticleDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:08:00.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Program.cs",
+              "RelativeDocumentMoniker": "ArticleVente\\Program.cs",
+              "ToolTip": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Program.cs",
+              "RelativeToolTip": "ArticleVente\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAUAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:51:29.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ArticleVente\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ArticleVente\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwCUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T12:46:35.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Views\\Articles\\Create.cshtml",
+              "RelativeDocumentMoniker": "ArticleVente\\Views\\Articles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Views\\Articles\\Create.cshtml",
+              "RelativeToolTip": "ArticleVente\\Views\\Articles\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T12:42:33.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticleVenteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Data\\ArticleVenteContext.cs",
+              "RelativeDocumentMoniker": "ArticleVente\\Data\\ArticleVenteContext.cs",
+              "ToolTip": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Data\\ArticleVenteContext.cs",
+              "RelativeToolTip": "ArticleVente\\Data\\ArticleVenteContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:39:44.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "ArticleVente\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "ArticleVente\\Controllers\\ArticlesController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAD4vxsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:38:58.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\appsettings.json",
+              "RelativeDocumentMoniker": "ArticleVente\\appsettings.json",
+              "ToolTip": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\appsettings.json",
+              "RelativeToolTip": "ArticleVente\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T13:05:15.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "ArticleVente\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\Models\\Article.cs",
+              "RelativeToolTip": "ArticleVente\\Models\\Article.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA7wAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T12:32:41.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArticleVente",
+              "DocumentMoniker": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\ArticleVente.csproj",
+              "RelativeDocumentMoniker": "ArticleVente\\ArticleVente.csproj",
+              "ToolTip": "C:\\Users\\Formation POEI\\Documents\\SiteDeVente\\ArticleVente\\ArticleVente\\ArticleVente.csproj",
+              "RelativeToolTip": "ArticleVente\\ArticleVente.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T12:15:16.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
